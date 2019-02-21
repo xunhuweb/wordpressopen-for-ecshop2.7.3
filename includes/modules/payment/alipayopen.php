@@ -54,7 +54,7 @@ if (isset($set_modules) && $set_modules == TRUE)
         array('name' => 'alipayopen_key',       'type' => 'text', 'value' => '6D7B025B8DD098C485F0805193136FB9'),
         array('name' => 'alipayopen_prefix',     'type' => 'text', 'value' => 'ec_'),
         array('name' => 'alipayopen_exchange_rate', 'type' => 'text', 'value' => '1'),
-        array('name' => 'alipayopen_transaction_url', 'type' => 'text', 'value' => 'https://pay.xunhupay.com'),
+        array('name' => 'alipayopen_transaction_url', 'type' => 'text', 'value' => 'https://pay2.xunhupay.com/v2'),
     );
     
     return;
